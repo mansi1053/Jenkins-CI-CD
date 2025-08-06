@@ -74,4 +74,4 @@ Add plugins on jenkins
   - Sonar:scanner
 
 Push your application on Docker and use the docker image
-Add your Docker Hub credentials in jenkins
+, Add your Docker Hub credentials in jenkins
